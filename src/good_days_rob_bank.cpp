@@ -1,3 +1,12 @@
+/*
+ * @Author: TieJianKuDan
+ * @Date: 2022-03-06 10:47:36
+ * @LastEditors: TieJianKuDan
+ * @LastEditTime: 2022-03-06 11:48:11
+ * @FilePath: \AlgorithmProblem\src\good_days_rob_bank.cpp
+ * @Description: 2100. 适合打劫银行的日子
+ * Copyright (c) 2022 by TieJianKuDan, All Rights Reserved. 
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>
