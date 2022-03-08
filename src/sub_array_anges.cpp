@@ -2,10 +2,10 @@
  * @Author: TieJianKuDan
  * @Date: 2022-03-04 10:34:02
  * @LastEditors: TieJianKuDan
- * @LastEditTime: 2022-03-04 13:40:39
+ * @LastEditTime: 2022-03-08 09:55:45
  * @FilePath: \AlgorithmProblem\src\sub_array_anges.cpp
  * @Description: 2104. 子数组范围和
- * Copyright (c) 2022 by TieJianKuDan, All Rights Reserved. 
+ * Copyright (c) 2022 by TieJianKuDan, All Rights Reserved.
  */
 #include <iostream>
 #include <vector>
@@ -83,3 +83,8 @@ public:
         return max_sum - min_sum;
     }
 };
+
+int main()
+{
+    return 0;
+}
