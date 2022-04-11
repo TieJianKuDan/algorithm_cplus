@@ -2,7 +2,7 @@
  * @Author: TieJianKuDan
  * @Date: 2022-04-01 09:15:26
  * @LastEditors: TieJianKuDan
- * @LastEditTime: 2022-04-11 08:37:21
+ * @LastEditTime: 2022-04-11 08:55:28
  * @FilePath: \AlgorithmProblem\src\can_reorder_doubled.cpp
  * @Description: 954. 二倍数对数组(超时)
  * Copyright (c) 2022 by TieJianKuDan, All Rights Reserved.
@@ -70,3 +70,5 @@ class Solution {
     return false;
   }
 };
+
+int main(){}
