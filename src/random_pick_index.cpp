@@ -2,7 +2,7 @@
  * @Author: TieJianKuDan
  * @Date: 2022-04-25 09:23:56
  * @LastEditors: TieJianKuDan
- * @LastEditTime: 2022-04-25 09:41:50
+ * @LastEditTime: 2022-04-27 10:30:39
  * @FilePath: \AlgorithmProblem\src\random_pick_index.cpp
  * @Description: 398. 随机数索引
  * Copyright (c) 2022 by TieJianKuDan, All Rights Reserved. 
@@ -41,3 +41,5 @@ public:
         }
     }
 };
+
+int main() {}
