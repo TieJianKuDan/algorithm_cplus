@@ -9,7 +9,7 @@ ALL : ${out}
 out/%.exe : obj/%.obj
 	g++ $< -o $@
 obj/%.obj : src/%.cpp
-	g++ -c $< -o $@ -g -Wall
+	g++ -c $< -o $@ -g -Wall -O0
 
 clean:
 	del /Q /F /S ${_out} ${_obj}
